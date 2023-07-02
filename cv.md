@@ -1,12 +1,12 @@
-# Vlad Danilov  
+# Vlad Danilov
 ### Junior Frontend Developer
 
 ---
 
 ## Contact information:
 
-Phone: +7 707 8102161  
-E-mail: vlad.super.dracula@gmail.com  
+Phone: +7 707 8102161
+E-mail: vlad.super.dracula@gmail.com
 GitHub: Vlad-DK
 
 ---
