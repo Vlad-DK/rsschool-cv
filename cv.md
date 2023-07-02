@@ -1,7 +1,7 @@
 # Vlad Danilov  
 ### Junior Frontend Developer
 
---
+---
 
 ## Contact information:
 
@@ -11,13 +11,13 @@ GitHub: Vlad-DK
 
 ---
 
-**About Myself:** 
+**About Myself:**
 
 Now I am studying at school, but I have already chosen for myself the path of becoming a Front End Developer.
 
 ---
 
-**Education** 
+**Education**
 
 Yandex Lyceum (plan to enroll)
 
@@ -25,5 +25,5 @@ Yandex Lyceum (plan to enroll)
 
 **Languages:**
 
-+ English - Upper-intermediate/Advance  
++ English - Upper-intermediate/Advance
 + Russian - Native
